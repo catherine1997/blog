@@ -1,0 +1,1 @@
+blog application built with django web framework
